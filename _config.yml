@@ -3,7 +3,7 @@ email:              your-email@example.com
 description:        By Clare Pasquale
 author:             Clare Pasquale
 baseurl:            "/"
-url:                "localhost"
+url:                "cdp71.github.io"
 
 # Social Profiles
 twitter_username:   
